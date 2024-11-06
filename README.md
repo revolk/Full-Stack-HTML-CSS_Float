@@ -1,4 +1,7 @@
-#Converse Chuck Taylor Product Page
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+Converse Chuck Taylor Product Page
 This is a simple, responsive HTML/CSS product page for the Converse Chuck Taylor All Star Low Top sneaker, featuring a clean design with essential information about the product. This project showcases HTML and CSS skills with layout design and basic styling.
 
 Project Features
@@ -39,11 +42,5 @@ This project is open-source and available under the MIT License.
 
 Contributing
 Contributions are welcome! Please create a fork, make your changes, and submit a pull request.
-
-Feel free to replace https://github.com/your-username/converse-product-page.git with your actual GitHub repository link if you have one. This README provides a clear overview and instructions for using and modifying the project.
-
-
-
-
 
 
